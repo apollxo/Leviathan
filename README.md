@@ -5,3 +5,4 @@ OvertheWire.org/Leviathan CTF challenge
 
 For access use SSH leviathan.labs.overthewire.org through SSH on port 2223.
 
+New update incoming...
